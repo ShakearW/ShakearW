@@ -25,20 +25,7 @@
 
 - 🌐 Portfolio:  <a href="https://shakearw.github.io/Personal_Website/" target="_blank"> Shakear's Portfolio/Resume </a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/shakear-wilson-5169502a7/" target="_blank">Shakear Wilson </a>
-- 🔍
+- ✉️ Email: <a href="mailto:officialkear@gmail.com">Officialkear@gmail.com</a>
 
 ---
-<p align="left">
-  <a href="https://shakearw.github.io/Personal_Website/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1d8db9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/shakear-wilson-5169502a7/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:officialkear@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/ShakearW" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+"In the end, greatness is not something you arrive at once. It's something you continue building every single day." 
