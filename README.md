@@ -23,7 +23,7 @@
 
 ## 🔗 Connect
 
-- 🌐 Portfolio:  <a href="[https://shakearw.github.io/Personal_Website/](https://personalwebsite-production-aac5.up.railway.app/)" target="_blank"> Shakear's Portfolio/Resume </a>
+- 🌐 Portfolio:  <a href="https://personalwebsite-production-aac5.up.railway.app/" target="_blank"> Shakear's Portfolio/Resume </a>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/shakear-wilson-5169502a7/" target="_blank">Shakear Wilson </a>
 - ✉️ Email: <a href="mailto:officialkear@gmail.com">Officialkear@gmail.com</a>
 
