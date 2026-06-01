@@ -27,10 +27,11 @@
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/shakear-wilson-5169502a7/" target="_blank">Shakear Wilson </a>
 - ✉️ Email: <a href="mailto:officialkear@gmail.com">Officialkear@gmail.com</a>
 
---- Senior Project
+## Senior Project
+
 Type of Project: Group Project
 
--   College Senior Project: <a href="https://wmsproject.bcolditz.tech/login/" target="_blank">Warehouse Management System</a>
+-   College Senior Project: <a href="https://wmsproject.bcolditz.tech/login" target="_blank">Warehouse Management System</a>
 -   DEMO CREDS: Username: demo , Password: DEMOuser123#
 
 ---
