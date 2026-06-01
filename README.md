@@ -21,18 +21,20 @@
 
 ---
 
-## 🔗 Connect
-
-- 🌐 Portfolio:  <a href="https://personalwebsite-production-aac5.up.railway.app/" target="_blank"> Shakear's Portfolio/Resume </a>
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/shakear-wilson-5169502a7/" target="_blank">Shakear Wilson </a>
-- ✉️ Email: <a href="mailto:officialkear@gmail.com">Officialkear@gmail.com</a>
-
 ## Senior Project
 
 Type of Project: Group Project
 
 -   College Senior Project: <a href="https://wmsproject.bcolditz.tech/login" target="_blank">Warehouse Management System</a>
 -   DEMO CREDS: Username: demo , Password: DEMOuser123#
+
+---
+
+## 🔗 Connect
+
+- 🌐 Portfolio:  <a href="https://personalwebsite-production-aac5.up.railway.app/" target="_blank"> Shakear's Portfolio/Resume </a>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/shakear-wilson-5169502a7/" target="_blank">Shakear Wilson </a>
+- ✉️ Email: <a href="mailto:officialkear@gmail.com">Officialkear@gmail.com</a>
 
 ---
 "In the end, greatness is not something you arrive at once. It's something you continue building every single day." 
