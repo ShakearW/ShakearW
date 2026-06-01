@@ -27,6 +27,7 @@ Type of Project: Group Project
 
 -   College Senior Project: <a href="https://wmsproject.bcolditz.tech/login" target="_blank">Warehouse Management System</a>
 -   DEMO CREDS: Username: demo , Password: DEMOuser123#
+-   Read more about it on my Portfolio site down below
 
 ---
 
