@@ -16,7 +16,7 @@
 ## 🛠️ Skills
 
 - Developer Tools & Environment: Git/Github, MySQL/MySQL Workbench, VS Code, Netbeans, Railway, React, Vite, Express.js, Node.js, API, Docker, Ngnix, Prisma, Symfony, Linux OS, Windows OS and Apache. 
-- Programming Languages: PHP, HTML, CSS, JavaScript, Java, API, C++, Assembly, Cobol. 
+- Programming Languages: PHP, HTML, CSS, JavaScript, Java, API, C++, Assembly, Cobol and TypeScript. 
 - Core Skills: UX/UI Development, APIs, MySQL, Deploying Applications, Security/Encryption and Frontend/Backend development.
 
 ---
